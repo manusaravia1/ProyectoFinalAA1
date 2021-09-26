@@ -1,3 +1,3 @@
-# ProyectoFinalAA1
+# Regresión y KNN
 
-Usando un dataset del FIFA 20, he predecido algoritmos de regresión lineal múltiple para predecir el precio de cada futbolista y de clasificación knn para clasificar a los jugadores según su rango de precio 
+Partiendo de un dataset del FIFA 20, ejercicio de regresión lineal múltiple para predecir el precio de cada futbolista y de clasificación KNN para clasificar a los jugadores según su rango de precio.
